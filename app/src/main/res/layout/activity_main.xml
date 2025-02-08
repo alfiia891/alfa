@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="Компоненты"
+        android:text="Компgui"
         android:textColor="@color/primary_color"
         android:textSize="20sp"
         android:textStyle="bold"/>
